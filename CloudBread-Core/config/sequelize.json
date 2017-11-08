@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "sherry92",
-    "password": "@antjs3671",
-    "database": "tt",
+    "username": "seonhee",
+    "password": "dnwjd2104A@",
+    "database": "cloudbreadnodejs",
     "host": "127.0.0.1",
     "port": 3306,
     "dialect": "mysql",
@@ -13,17 +13,17 @@
     }
   },
   "test": {
-    "username": "sherry92",
-    "password": "@antjs3671",
-    "database": "tt",
+    "username": "seonhee",
+    "password": "dnwjd2104A@",
+    "database": "cloudbreadnodejs",
     "host": "127.0.0.1",
     "port": 3306,
     "dialect": "mysql"
   },
   "production": {
-    "username": "sherry92",
-    "password": "@antjs3671",
-    "database": "tt",
+    "username": "seonhee",
+    "password": "dnwjd2104A@",
+    "database": "cloudbreadnodejs",
     "host": "127.0.0.1",
     "port": 3306,
     "dialect": "mysql"
